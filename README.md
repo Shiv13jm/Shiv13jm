@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Shivani</h1>
 <h3 align="center">A passionate 👨‍💻 Computer Science Enthusiast 🌟 | Proactive Developer 🚀 | AI & ML Enthusiast 🤖 | UI/UX Designer 🎨 | Cybersecurity Enthusiast 🔒 | Frontend Ninja 🌐 | Code & Create 🖥️ | Mentor & Speaker 🗣️ | Always Exploring New Tech 🚀 | from India.Let's Build Something Awesome! 💡</h3>
 
